@@ -48,7 +48,7 @@ API endpoints are documented using **Swagger UI**.
 
 1. **Clone the project**
    ```bash
-   git clone https://github.com/Catus07/test management system (tms).git
+   git clone https://github.com/Catus07/Test-Management-System-TMS-.git
    cd tms-backend
    
 API Usage via Postman
